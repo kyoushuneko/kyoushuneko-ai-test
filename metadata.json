@@ -1,0 +1,6 @@
+{
+  "name": "Kyoushuneko Miniatures",
+  "description": "Premium 3D digital sculpting studio creating 28mm and 32mm scale tabletop figures for Weird War WWII, historical, and fantasy wargaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
